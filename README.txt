@@ -1,4 +1,4 @@
 Language: Python3
 To run: type Python3 [filename]
 
-![flowchart](D:\leap)
+![flowchart](https://github.com/Cristian-115/leapyear/blob/main/flowchart.jpg)
